@@ -11,8 +11,7 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
