@@ -25,7 +25,7 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 
 ## Demo
 
-Check out the live demo of the calculator [here](https://your-calculator-demo-link.com).
+Check out the live demo of the calculator [here](http://127.0.0.1:5500/index.html).
 
 ## Getting Started
 
